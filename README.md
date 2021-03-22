@@ -3,16 +3,13 @@ A web-based demonstration of blockchain concepts.
 
 [![Blockchain 101 - Demo](https://img.youtube.com/vi/_160oMzblY8/0.jpg)](https://www.youtube.com/watch?v=_160oMzblY8)
 
-This is a very basic visual introduction to the concepts behind a blockchain. We introduce 
-the idea of an immutable ledger using an interactive web demo that is available here:
-
-http://anders.com/blockchain/
+This is a very basic visual introduction to the concepts behind a blockchain.
 
 ## Setup
 Get the code:
 
 ```
-git clone https://github.com/anders94/blockchain-demo.git
+git clone https://github.com/victor-luis/Blockchain-2
 ```
 
 Install dependencies:
@@ -48,13 +45,13 @@ http://localhost:3000
 Get the code:
 
 ```
-git clone https://github.com/anders94/blockchain-demo.git
+git clone https://github.com/victor-luis/Blockchain-2
 ```
 
 Run the Docker setup:
 
 ```
-cd blockchain-demo
+cd blockchain-2
 docker-compose up -d
 ```
 
@@ -97,13 +94,14 @@ In the production bitcoin blockchain, block `458,091` has the hash digest
 `00000000000000000000011246f099d94f91628d71c9d75ad2f9a06e2beb7e92`. That's 21 zeros in a row!
 That one block would take this software approximately 8,454,989,768,407,765 years to mine.
 
-### Public Private Key Demo
+## Contributions
 
-The 2nd part of the 101 session:
-* https://github.com/anders94/public-private-key-demo
+Thanks all for your contributions...
+    
+![Screen Shot 2021-03-21 at 19 11 59](https://user-images.githubusercontent.com/81108192/111917690-519f4380-8a79-11eb-9d01-de457b1655f6.png)
+    
+ETH WALLET: 0xA1134858c168568CBE37649D16723eC8F782e0A2
 
-## Send Thanks
+![Screen Shot 2021-03-21 at 21 56 54](https://user-images.githubusercontent.com/81108192/111922186-5b807100-8a90-11eb-8504-a3fc3ae35052.png)
 
-![](public/images/qr.png)
-
-Bitcoin gratefully accepted: `1K3NvcuZzVTueHW1qhkG2Cm3viRkh2EXJp`
+BTC WALLET: 3N928MmFq51kbf6fE3fxJbtggBhcjMAhSQ
