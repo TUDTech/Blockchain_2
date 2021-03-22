@@ -1,7 +1,7 @@
 # Blockchain Demo
 A web-based demonstration of blockchain concepts.
 
-[![Blockchain 101 - Demo](https://img.youtube.com/vi/_160oMzblY8/0.jpg)](https://www.youtube.com/watch?v=_160oMzblY8)
+![Screen Shot 2021-03-22 at 03 01 34](https://user-images.githubusercontent.com/81108192/111935215-eaa27e80-8aba-11eb-8f31-1e38d515114d.png)
 
 This is a very basic visual introduction to the concepts behind a blockchain.
 
